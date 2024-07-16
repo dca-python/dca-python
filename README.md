@@ -1,7 +1,5 @@
-David here 🙋🏻‍♂️ 
+Hey everyone, David here 👋🏻
 
-I'm a Political Economist by training and recently completed a Le Wagon bootcamp where I spent 660 hours on developing my data science skills using Python, SQL and a variety of
-MLOps tools. 
+I'm an economist by training, with a solid background in mathematical modeling and applied statistics using R. Recently, I've become fascinated with machine learning, which led me to complete Le Wagon's intensive *Data Science & AI* bootcamp, where I spent 660 hours immersed in data science using Python, SQL, and a variety of MLOps tools.
 
-As a final project, we collaborated in a team of four to develop a cloud-hosted deforestation tracker web application that retrieves up-to-date satellite imagery and calculates rainforest coverage using a convolutional neural network. 
-Check it out!
+As a final project, we collaborated in a team of four to develop a cloud-hosted deforestation tracker web application, addressing the compliance needs set forth by the EU Deforestation Regulation (2023/1115). We use latest-available satellite imagery and a self-made convolutional neural networks to analyze changes in rainforest coverage. Check it out!
